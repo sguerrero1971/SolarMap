@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Equipment Tracker</string>
+    <string name="title_activity_maps">Equipment Tracker</string>
+    <string name="dialog_Set_GeoFence">Set GeoFence?</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="dialog_what_mine">Select Mine</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/classes-1f3cdfe6f9a7af09cbd206bb48fd996310efb71e.jar"
+        jar="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/classes-805fe9e0e18e9ef89557b244eabffb3b3289cef6.jar"
+        jar="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-52436b5be50d86ab348145e0eee93b57e1ed2f2b.jar"
+        jar="/home/sguerrero/development/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/classes-05658f1b101193a0a87e4486dee2b84bc2363b3a.jar"
+        jar="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-feb522d9edeb469afb6928edf9a70fb7a61f5aa3.jar"
+        jar="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="/home/sguerrero/AndroidStudioProjects/SolarMap/app/build/intermediates/pre-dexed/debug/sqliteassethelper-2.0.1-db90b3d7526df3041778c1ff3130ae39dcdeef49.jar"
+        jar="/home/sguerrero/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.sqliteasset/sqliteassethelper/2.0.1/d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f/sqliteassethelper-2.0.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d5f02e4a4d65ec0fbb339f2e4228723d1540bb9f"/>
+
+</pre-dex-items>
